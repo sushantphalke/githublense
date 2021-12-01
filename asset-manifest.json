@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/githublense/static/css/main.d009ef07.chunk.css",
-    "main.js": "/githublense/static/js/main.e440a068.chunk.js",
-    "main.js.map": "/githublense/static/js/main.e440a068.chunk.js.map",
-    "runtime-main.js": "/githublense/static/js/runtime-main.f8f690b8.js",
-    "runtime-main.js.map": "/githublense/static/js/runtime-main.f8f690b8.js.map",
-    "static/js/2.ed354d00.chunk.js": "/githublense/static/js/2.ed354d00.chunk.js",
-    "static/js/2.ed354d00.chunk.js.map": "/githublense/static/js/2.ed354d00.chunk.js.map",
-    "static/js/3.4f58fe82.chunk.js": "/githublense/static/js/3.4f58fe82.chunk.js",
-    "static/js/3.4f58fe82.chunk.js.map": "/githublense/static/js/3.4f58fe82.chunk.js.map",
-    "index.html": "/githublense/index.html",
-    "static/css/main.d009ef07.chunk.css.map": "/githublense/static/css/main.d009ef07.chunk.css.map",
-    "static/js/2.ed354d00.chunk.js.LICENSE.txt": "/githublense/static/js/2.ed354d00.chunk.js.LICENSE.txt",
-    "static/media/search34.29e3b455.gif": "/githublense/static/media/search34.29e3b455.gif",
-    "static/media/spinner34.5b35cef0.gif": "/githublense/static/media/spinner34.5b35cef0.gif"
+    "main.css": "/static/css/main.2e19cca1.chunk.css",
+    "main.js": "/static/js/main.f83f6178.chunk.js",
+    "main.js.map": "/static/js/main.f83f6178.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d63fd5e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d63fd5e.js.map",
+    "static/js/2.be9c55cf.chunk.js": "/static/js/2.be9c55cf.chunk.js",
+    "static/js/2.be9c55cf.chunk.js.map": "/static/js/2.be9c55cf.chunk.js.map",
+    "static/js/3.b580c583.chunk.js": "/static/js/3.b580c583.chunk.js",
+    "static/js/3.b580c583.chunk.js.map": "/static/js/3.b580c583.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2e19cca1.chunk.css.map": "/static/css/main.2e19cca1.chunk.css.map",
+    "static/js/2.be9c55cf.chunk.js.LICENSE.txt": "/static/js/2.be9c55cf.chunk.js.LICENSE.txt",
+    "static/media/search34.29e3b455.gif": "/static/media/search34.29e3b455.gif",
+    "static/media/spinner34.5b35cef0.gif": "/static/media/spinner34.5b35cef0.gif",
+    "static/media/sushant_photo.123bce68.jpg": "/static/media/sushant_photo.123bce68.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8f690b8.js",
-    "static/js/2.ed354d00.chunk.js",
-    "static/css/main.d009ef07.chunk.css",
-    "static/js/main.e440a068.chunk.js"
+    "static/js/runtime-main.3d63fd5e.js",
+    "static/js/2.be9c55cf.chunk.js",
+    "static/css/main.2e19cca1.chunk.css",
+    "static/js/main.f83f6178.chunk.js"
   ]
 }
